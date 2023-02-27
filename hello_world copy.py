@@ -23,3 +23,4 @@ if __name__ == '__main__':
 
 print(“This one should be on main”)
 why it's happening
+shoube the second one
