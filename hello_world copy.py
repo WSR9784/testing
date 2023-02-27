@@ -20,3 +20,6 @@ class TestStringMethods(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+print(“This one should be on main”)
+why it's happening
